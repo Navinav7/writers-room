@@ -47,10 +47,13 @@ h1{
 }
 .nav-bar{
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
     align-items: flex-end;
     padding-left: 300px;
     padding-bottom: 15px;
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: 500;
 }
 a{
     color: blanchedalmond;
